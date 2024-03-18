@@ -1,4 +1,4 @@
-Zadanie 1 Tytuł
+Zadanie 1 Paradygmaty
 
 ✅ 3.0 wymaganie 1
 
