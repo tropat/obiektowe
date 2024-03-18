@@ -8,6 +8,6 @@ Zadanie 1 Paradygmaty
 
 ✅ 4.5 wymaganie 4 [Pascal file](https://github.com/tropat/obiektowe/commit/d74df917173757255a03db4063d58fbf17e8c7ff)
 
-❌ 5.0 wymaganie 5
+✅ 5.0 wymaganie 5 [Skrypt](https://github.com/tropat/obiektowe/commit/c952a248cacb309fe8a86710732f5928a705c238)
 
 Kod: ./zad01
