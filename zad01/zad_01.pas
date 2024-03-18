@@ -37,7 +37,6 @@ procedure WriteTab(var tab: list; ile: Integer);
 var
   i: Integer;
 begin
-  writeln('Tablica:');
   for i := 1 to ile do
     write(tab[i], ' ');
   writeln;
@@ -72,6 +71,7 @@ begin
 
     writeln;writeln;
 
+    writeln('Test 1 - sortowanie - 100 elementow');
     ListInitialization(test_list, 1, 100, 10);
     Sort(test_list, 10);
     for i := 1 to 9 do
@@ -85,6 +85,8 @@ begin
         writeln('Test 1 PASSED');
       end;
 
+
+    writeln('Test 2 - sortowanie - 1000 elementow');
     ListInitialization(test_list, 1, 1000, 1000);
     Sort(test_list, 1000);
     for i := 1 to 999 do
@@ -97,5 +99,49 @@ begin
       begin
         writeln('Test 2 PASSED');
       end;
+
+    writeln('Test 3 - inicjalizacja - 100 elementow');
+    ListInitialization(test_list, 1, 100, 200);
+    for i := 1 to 200 do
+      if (test_list[i] < 1) or (test_list[i] > 100) then
+      begin
+        writeln('Test 3 FAILED');
+        Break;
+      end
+      else if i = 200 then
+      begin
+        writeln('Test 3 PASSED');
+      end;
+
+    writeln('Test 4 - inicjalizacja - ponad 1000 elementow');
+    ListInitialization(test_list, 1, 100, 2000);
+    for i := 1 to 1000 do
+      if (test_list[i] < 1) or (test_list[i] > 100) then
+      begin
+        writeln('Test 4 FAILED');
+        Break;
+      end
+      else if i = 1000 then
+      begin
+        writeln('Test 4 PASSED');
+      end;
+
+    writeln('Test 5 - sortowanie - duplikaty');
+    for i := 1 to 100 do
+      test_list[i] := 5; // duplikacja elementów
+    Sort(test_list, 100);
+    for i := 1 to 99 do
+      if test_list[i] <> test_list[i+1] then
+      begin
+        writeln('Test 5 FAILED');
+        Break;
+      end
+      else if i = 99 then
+      begin
+        writeln('Test 5 PASSED');
+      end;
+
+
+
 
 end.
