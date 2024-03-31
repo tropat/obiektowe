@@ -26,3 +26,4 @@ curl -X DELETE $URL/product/2
 
 echo "OK"
 echo
+
