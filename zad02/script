@@ -1,0 +1,28 @@
+#!/bin/bash
+
+URL="http://localhost:8080"
+
+echo "Test GET request"
+curl -X GET $URL/products
+
+echo
+
+echo "Test POST request"
+curl -X POST $URL/product \
+-H "Content-Type: application/json" \
+-d '{"name": "New Product"}'
+
+echo
+
+echo "Test PUT request"
+curl -X PUT $URL/product/1 \
+-H "Content-Type: application/json" \
+-d '{"name": "Updated"}'
+
+echo
+
+echo "Test DELETE request"
+curl -X DELETE $URL/product/2
+
+echo "OK"
+echo
