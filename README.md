@@ -43,3 +43,19 @@ Zadanie 3 Wzorce kreacyjne
  ✅ 5.0 wymaganie 5 [Full application](https://github.com/tropat/obiektowe/commit/bcf0be3fa7bbfcf6db7a649b54e07b9e4ac8bd6b)
 
 Kod: ./zad03/zad03_2
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Zadanie 4 Wzorce strukturalne
+
+✅ 3.0 wymaganie 1
+
+✅ 3.5 wymaganie 2
+
+ ✅ 4.0 wymaganie 3
+
+ ✅ 4.5 wymaganie 4 
+
+ ✅ 5.0 wymaganie 5 [Go application for weather checking](https://github.com/tropat/obiektowe/commit/191fae9e05624e2a3e4f75dcf5f04813dc057e4c)
+
+Kod: ./zad04
