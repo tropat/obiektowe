@@ -59,3 +59,19 @@ Zadanie 4 Wzorce strukturalne
  ✅ 5.0 wymaganie 5 [Go application for weather checking](https://github.com/tropat/obiektowe/commit/191fae9e05624e2a3e4f75dcf5f04813dc057e4c)
 
 Kod: ./zad04
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Zadanie 5 Wzorce behawioralne React (JavaScript/Typescript)
+
+✅ 3.0 wymaganie 1 [React app](https://github.com/tropat/obiektowe/commit/840eff9b6f9e9095a3b9e0e646a0515bc8239c4c)
+
+3.5 wymaganie 2
+
+4.0 wymaganie 3
+
+4.5 wymaganie 4 
+
+ 5.0 wymaganie 5
+
+Kod: ./zad05
