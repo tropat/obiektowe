@@ -1,9 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import axios from 'axios';
 
-const Platnosci = () => {
-    const [formData, setFormData] = useState({});
-
+const Platnosci = ({ formData, setFormData }) => {
     const handleInputChange = event => {
         const { name, value } = event.target;
         var newValue = name === "Cena" ? parseFloat(value) : value;

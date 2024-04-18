@@ -1,8 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import axios from 'axios';
 
-const Produkty = () => {
-    const [produkty, setProdukty] = useState([]);
+const Produkty = ({ produkty, setProdukty }) => {
 
     useEffect(() => {
         const fetchProdukty = async () => {
