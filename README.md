@@ -70,8 +70,8 @@ Zadanie 5 Wzorce behawioralne React (JavaScript/Typescript)
 
 ✅ 4.0 wymaganie 3 [React hooks](https://github.com/tropat/obiektowe/commit/5ae9fbae4d02ebba3e2b5e56786829c17d54dd07)
 
-4.5 wymaganie 4 
+✅ 4.5 wymaganie 4 
 
- 5.0 wymaganie 5
+✅ 5.0 wymaganie 5 [Docker + CORS](https://github.com/tropat/obiektowe/commit/97d3fe220599555944e2303352c01446e1ec9acc)
 
 Kod: ./zad05
