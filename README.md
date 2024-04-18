@@ -68,7 +68,7 @@ Zadanie 5 Wzorce behawioralne React (JavaScript/Typescript)
 
 ✅ 3.5 wymaganie 2 [Add Koszyk](https://github.com/tropat/obiektowe/commit/221e9d460f229b752113d47935215114374be0cd)
 
-4.0 wymaganie 3
+✅ 4.0 wymaganie 3 [React hooks](https://github.com/tropat/obiektowe/commit/5ae9fbae4d02ebba3e2b5e56786829c17d54dd07)
 
 4.5 wymaganie 4 
 
