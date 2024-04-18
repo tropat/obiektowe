@@ -17,7 +17,11 @@ const Platnosci = ({ formData, setFormData }) => {
         event.preventDefault();
         try {
             console.log(formData);
-            await axios.post('http://localhost:8080/produkty', formData);
+            await axios.post('http://localhost:8080/produkty', formData, {
+                headers: {
+                    'Access-Control-Allow-Origin': '*'
+                }
+            });
             console.log('Dane zostały wysłane');
         } catch (error) {
             console.error('Błąd podczas wysyłania danych:', error);
