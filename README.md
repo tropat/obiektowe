@@ -94,7 +94,10 @@ npx eslint client/src
 ![Zrzut ekranu 2024-05-09 145438](https://github.com/tropat/obiektowe/assets/79634369/9fdc5c5f-d25b-4672-af35-90f738c9684d)
 
 
- 4.0 wymaganie 3
+✅ 4.0 wymaganie 3
+
+![Zrzut ekranu 2024-05-09 154835](https://github.com/tropat/obiektowe/assets/79634369/1a795ee1-ad63-487a-83a1-6075c9c6aba7)
+
 
  4.5 wymaganie 4 
 
