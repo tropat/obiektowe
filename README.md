@@ -78,7 +78,7 @@ Kod: ./zad05
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-Zadanie 5 Wzorce behawioralne React (JavaScript/Typescript)
+Zadanie 5 Zapaszki Sonar (JS)
 
 ✅ 3.0 wymaganie 1
 
