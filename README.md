@@ -99,9 +99,15 @@ npx eslint client/src
 ![Zrzut ekranu 2024-05-09 154835](https://github.com/tropat/obiektowe/assets/79634369/1a795ee1-ad63-487a-83a1-6075c9c6aba7)
 
 
- 4.5 wymaganie 4 
+✅ 4.5 wymaganie 4 
 
- 5.0 wymaganie 5 
+ ![Zrzut ekranu 2024-05-09 160407](https://github.com/tropat/obiektowe/assets/79634369/a3a86ee8-125a-4a27-bbee-00f6c9dfddc9)
+
+
+✅ 5.0 wymaganie 5 
+ 
+![Zrzut ekranu 2024-05-09 160407](https://github.com/tropat/obiektowe/assets/79634369/8603b569-c70d-43dd-adae-b52dff77ec4c)
+ 
 
 Repozytorium: https://github.com/tropat/sonar-react
 SonarCloud: https://sonarcloud.io/code?id=tropat_sonar-react&selected=tropat_sonar-react%3Aclient
