@@ -75,3 +75,31 @@ Zadanie 5 Wzorce behawioralne React (JavaScript/Typescript)
 ✅ 5.0 wymaganie 5 [Docker + CORS](https://github.com/tropat/obiektowe/commit/97d3fe220599555944e2303352c01446e1ec9acc)
 
 Kod: ./zad05
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Zadanie 5 Wzorce behawioralne React (JavaScript/Typescript)
+
+✅ 3.0 wymaganie 1
+
+```sh
+npx eslint client/src
+```
+
+![Zrzut ekranu 2024-05-09 145044](https://github.com/tropat/obiektowe/assets/79634369/6823deaf-e929-45bc-b23b-a0aa8ae9670e)
+
+
+✅ 3.5 wymaganie 2
+
+![Zrzut ekranu 2024-05-09 145438](https://github.com/tropat/obiektowe/assets/79634369/9fdc5c5f-d25b-4672-af35-90f738c9684d)
+
+
+ 4.0 wymaganie 3
+
+ 4.5 wymaganie 4 
+
+ 5.0 wymaganie 5 
+
+Repozytorium: https://github.com/tropat/sonar-react
+SonarCloud: https://sonarcloud.io/code?id=tropat_sonar-react&selected=tropat_sonar-react%3Aclient
+
