@@ -78,7 +78,7 @@ Kod: ./zad05
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-Zadanie 5 Zapaszki Sonar (JS)
+Zadanie 6 Zapaszki Sonar (JS)
 
 ✅ 3.0 wymaganie 1
 
@@ -112,3 +112,18 @@ npx eslint client/src
 Repozytorium: https://github.com/tropat/sonar-react
 SonarCloud: https://sonarcloud.io/code?id=tropat_sonar-react&selected=tropat_sonar-react%3Aclient
 
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Zadanie 7 Antywzorce Vapor (Swift)
+
+✅ 3.0 wymaganie 1 [Logowanie i rejestracja](https://github.com/tropat/obiektowe/commit/6a41041b040b929134784d85ab2491649242397a)
+
+ 3.5 wymaganie 2 
+
+ 4.0 wymaganie 3
+
+ 4.5 wymaganie 4 
+
+ 5.0 wymaganie 5
+
+Kod: ./zad07
