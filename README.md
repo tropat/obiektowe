@@ -116,7 +116,7 @@ SonarCloud: https://sonarcloud.io/code?id=tropat_sonar-react&selected=tropat_son
 
 Zadanie 7 Antywzorce Vapor (Swift)
 
-✅ 3.0 wymaganie 1 [Produkty](https://github.com/tropat/obiektowe/commit/6a41041b040b929134784d85ab2491649242397a)
+✅ 3.0 wymaganie 1 [Produkty](https://github.com/tropat/obiektowe/commit/6a41041b040b929134784d85ab2491649242397a) + [fix](https://github.com/tropat/obiektowe/commit/70492e6e092baf02375d7595b9014597cfd150c8)
 
  3.5 wymaganie 2 
 
