@@ -6,6 +6,8 @@ struct ProductController: RouteCollection {
         productsRoute.get(use: getAllHandler)
         productsRoute.post(use: createHandler)
         productsRoute.group(":productID") { productRoute in
+            productRoute.get(use: getHandler)
+            productRoute.put(use: updateHandler)
             productRoute.delete(use: deleteHandler)
         }
     }
