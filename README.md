@@ -143,3 +143,19 @@ Zadanie 8 Mobile first (Android)
  5.0 wymaganie 5
 
 Kod: ./zad08
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Zadanie 9 Testy
+
+✅ 3.0 wymaganie 1
+
+✅ 3.5 wymaganie 2 [zad09](https://github.com/tropat/obiektowe/commit/43264e5ee435a1bd6045142f9bc1bc1529f5cb72)
+
+ 4.0 wymaganie 3
+
+ 4.5 wymaganie 4 
+
+ 5.0 wymaganie 5
+
+Kod: ./zad09
