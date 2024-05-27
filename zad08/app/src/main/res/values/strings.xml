@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">zad08</string>
+    <string name="title_home">Sklep</string>
+    <string name="title_dashboard">Koszyk</string>
+</resources>
