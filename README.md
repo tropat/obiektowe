@@ -127,3 +127,19 @@ Zadanie 7 Antywzorce Vapor (Swift)
  5.0 wymaganie 5
 
 Kod: ./zad07
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Zadanie 8 Mobile first (Android)
+
+✅ 3.0 wymaganie 1
+
+✅ 3.5 wymaganie 2 [zad08](https://github.com/tropat/obiektowe/commit/872b58633d9c862fceb870a01c52d21819b33c89)
+
+ 4.0 wymaganie 3
+
+ 4.5 wymaganie 4 
+
+ 5.0 wymaganie 5
+
+Kod: ./zad08
